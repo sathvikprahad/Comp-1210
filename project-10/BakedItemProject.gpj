@@ -1,0 +1,49 @@
+!1689;s
+J
+SAU0JGRASP_MAIN_BOUNDS=%<CONTROL_SHELL_BOUNDS>\012PATH+=%<JGRASP_PATHS>%;\012PATH=+%;%<JGRASP_C_PATHS>\012CYGWIN=nodosfilewarning\012GCC_COLORS=\012-Run\012ADD_EXE_PATH==Y\012
+SCU0JGRASP_MAIN_BOUNDS=%<CONTROL_SHELL_BOUNDS>\012PATH+=%<JGRASP_PATHS>%;\012PATH=+%;%<JGRASP_C_PATHS>\012CYGWIN=nodosfilewarning\012GCC_COLORS=\012-Run\012ADD_EXE_PATH==Y\012
+S+U0JGRASP_MAIN_BOUNDS=%<CONTROL_SHELL_BOUNDS>\012PATH+=%<JGRASP_PATHS>%;\012PATH=+%;%<JGRASP_C_PATHS>\012CYGWIN=nodosfilewarning\012GCC_COLORS=\012-Run\012ADD_EXE_PATH==Y\012
+SJU0JGRASP_MAIN_BOUNDS=%<CONTROL_SHELL_BOUNDS>\012CLASSPATH=+%;%<EXTENSION_CLASSPATHS>\012CLASSPATH+=%<JGRASP_CLASSPATHS>%;\012CLASSPATH+=.%;\012CLASSPATH+=%<TARGET_CLASSPATHS>%;\012Compile +Document\012CLASSPATH+=%<SRC_CLASSPATHS>%;\012All\012PATH+=%<JAVA_BIN_DIR>%;\012PATH+=%<JGRASP_PATHS>%;\012Debug\012CLASSPATH=+%;%<INJECTION_CLASSPATHS>\012Compile\012NOT_FOUND_MESSAGE==Make sure you have the full Java SE, not just the JRE, installed.\\nJava is available from https://www.oracle.com/java/technologies .\012Document\012CLASSPATH=+%;%<TOOL_CLASSPATHS>\012
+SKU0CLASSPATH=+%;%<EXTENSION_CLASSPATHS>\012CLASSPATH+=%<JGRASP_CLASSPATHS>%;\012CLASSPATH+=.%;\012CLASSPATH+=%<TARGET_CLASSPATHS>%;\012Compile +Document\012CLASSPATH+=%<SRC_CLASSPATHS>%;\012All\012PATH+=%<JAVA_BIN_DIR>%;\012PATH+=%<JGRASP_PATHS>%;
+SXU0
+SOU0JGRASP_MAIN_BOUNDS=%<CONTROL_SHELL_BOUNDS>\012PATH+=%<JGRASP_PATHS>%;\012PATH=+%;%<JGRASP_C_PATHS>\012CYGWIN=nodosfilewarning\012GCC_COLORS=\012-Run\012ADD_EXE_PATH==Y\012
+SyU0JGRASP_MAIN_BOUNDS=%<CONTROL_SHELL_BOUNDS>\012PATH+=%<PYTHON_PATH>%;\012PATH+=%<JGRASP_PATHS>%;\012CYGWIN=nodosfilewarning\012GCC_COLORS=
+SPU0
+s#i0
+s#k0
+s#j0
+s#l0
+!296;g
+%\011baked_item_data.csv
+%\011BakedItemList.java
+%\011WeddingCake.java
+%\011Pie.java
+%\011Cake.java
+%\011FlavorComparator.java
+%\011BakedItem.java
+%\011PriceComparator.java
+%\011BakeryPart2.java
+%\011Cookie.java
+%\011InvalidCategoryException.java
+%\011%uProject 11%sInvalidCategoryException.java
+!296;f
+%\011baked_item_data.csv
+%\011BakedItemList.java
+%\011WeddingCake.java
+%\011Pie.java
+%\011Cake.java
+%\011FlavorComparator.java
+%\011BakedItem.java
+%\011PriceComparator.java
+%\011BakeryPart2.java
+%\011Cookie.java
+%\011InvalidCategoryException.java
+%\011%uProject 11%sInvalidCategoryException.java
+!123;l
+%\011CookieTest.java
+%\011InvalidCategoryExceptionTest.java
+%\011CakeTest.java
+%\011WeddingCakeTest.java
+%\011PieTest.java
+!668;t
+jgrCheckstyle0xr	%\011BakedItemList.java	1668720987161:P	%\011WeddingCake.java	1668720987161:P	%\011Pie.java	1668720987161:P	%\011Cake.java	1668720987161:P	%\011InvalidCategoryExceptionTest.java	1668720987161:P	%\011BakedItem.java	1668720987161:P	%\011PriceComparator.java	1668720987161:P	%\011CakeTest.java	1668720987161:P	%\011BakeryPart2.java	1668720987161:P	%\011Cookie.java	1668720987161:P	%\011%uProject 11%sInvalidCategoryException.java	1668720987161:P	%\011FlavorComparator.java	1668720987161:P	%\011CookieTest.java	1668720987161:P	%\011WeddingCakeTest.java	1668720987161:P	%\011PieTest.java	1668720987161:P	%\011InvalidCategoryException.java	1668720987161:P	
